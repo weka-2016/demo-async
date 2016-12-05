@@ -1,0 +1,16 @@
+{
+  "name": "demo-async",
+  "version": "1.0.0",
+  "main": "synchronous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "superagent": "^3.1.0"
+  }
+}
